@@ -92,22 +92,24 @@ easydesk/
 
 
 ### 🔐 Login  
-
+![Login Screenshot](img/Login.png)
 
 ### 📊 Dashboard  
-![Dashboard Screenshot](https://your-image-link.com/dashboard.png)
+![Dashboard Screenshot](img/Index.png)
+
+![Dashboard Screenshot 2](img/Index%20pt%202.png)
 
 ### 🧾 Tax Compliance Module  
-![Fiscal Screenshot](https://your-image-link.com/fiscal.png)
+![Fiscal Screenshot](img/Controle%20Fiscal.png)
 
 ### 🪪 License Management  
-![License Screenshot](https://your-image-link.com/license.png)
+![License Screenshot](img/Licenciamento.png)
 
 ### 🧑‍💼 Client Management  
-![Clients Screenshot](https://your-image-link.com/clients.png)
+![Clients Screenshot](img/Gestao%20empresas.png)
 
-### 🔍 Audit View  
-![Audit Screenshot](https://your-image-link.com/audit.png)
+### 🔍 Bookkeeping View  
+![Bookkeeping Screenshot](img/Escrituração.png)
 
 ---
 
