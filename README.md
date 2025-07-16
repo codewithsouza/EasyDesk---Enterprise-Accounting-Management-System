@@ -145,8 +145,8 @@ The system is **fully deployed** on [Railway](https://railway.app), with:
 
 **Developer:** Lucas Souza 
 **Email:** lds.antunes3011@gmail.com
-**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/lucas-souza-a869882aa/)  
-**Portfolio:** [yourportfolio.com](https://github.com/codewithsouza)
+**LinkedIn:** [linkedin.com/in/myprofile](https://www.linkedin.com/in/lucas-souza-a869882aa/)  
+**Portfolio:** [myportfolio.com](https://github.com/codewithsouza)
 
 ---
 
