@@ -143,10 +143,10 @@ The system is **fully deployed** on [Railway](https://railway.app), with:
 
 ## 📬 Contact
 
-**Developer:** Your Name  
-**Email:** your.email@example.com  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+**Developer:** Lucas Souza 
+**Email:** lds.antunes3011@gmail.com
+**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/lucas-souza-a869882aa/)  
+**Portfolio:** [yourportfolio.com](https://github.com/codewithsouza)
 
 ---
 
