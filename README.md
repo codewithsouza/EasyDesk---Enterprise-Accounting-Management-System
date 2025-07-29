@@ -5,7 +5,7 @@ The full system is online and deployed for demonstration purposes.
 Source code is not public due to contractual and data sensitivity reasons,  
 but this repository outlines the platform's features, structure, and architecture.
 
-🔗 **Live Demo:** [https://web-production-52f4.up.railway.app](https://web-production-52f4.up.railway.app)
+🔗 **Live Demo:** [https://easydesk.up.railway.app/accounts/login/](https://easydesk.up.railway.app/accounts/login/)
 
 ---
 
