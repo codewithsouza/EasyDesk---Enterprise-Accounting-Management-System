@@ -50,12 +50,7 @@ Supports multiple users with role-based access, deadline tracking, internal audi
 - Secure login and session handling
 - Activity logs for internal monitoring
 
-### 7. 🔔 Notifications
-- Real-time and email alerts
-- Alert rules based on deadlines and compliance flags
-- User preference management
-
-### 8. 📊 Dashboard & Reports
+### 7. 📊 Dashboard & Reports
 - Overview of tasks, alerts, compliance, and statuses
 - Visual KPIs and metric cards
 - Exportable reports for external review
