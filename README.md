@@ -1,4 +1,4 @@
-# 🏢 EasyDesk - Sistema de Gestão Contábil
+# EasyDesk - Sistema de Gestão Contábil
 
 Sistema completo de gestão contábil desenvolvido em Django para controle empresarial, fiscal e de licenciamento.
 
@@ -6,7 +6,7 @@ Sistema completo de gestão contábil desenvolvido em Django para controle empre
 
 ---
 
-## 📌 Visão Geral
+## Visão Geral
 
 *EasyDesk* é uma plataforma web SaaS para gestão de tarefas contábeis, clientes, conformidade fiscal, licenciamento e auditorias.  
 Desenvolvido para escritórios de contabilidade de pequeno a médio porte, centraliza processos operacionais em uma interface limpa e intuitiva.
@@ -15,22 +15,22 @@ Suporta múltiplos usuários com acesso baseado em funções, rastreamento de pr
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-### 📊 **Gestão de Empresas**
+### **Gestão de Empresas**
 - Cadastro completo com validações de CNPJ e regime tributário
 - Gestão de endereços e responsáveis
 - Controle de empresas coligadas
 - Histórico de alterações e auditoria
 
-### 💼 **Módulo Fiscal**
+###  **Módulo Fiscal**
 - Controle de obrigações e integrações fiscais
 - Importação/Exportação de dados fiscais
 - Apuração por período
 - Geração de DARF/GUIAS (quando suportado)
 - Indicadores de obrigações em aberto e atrasos
 
-### 📋 **Escrituração Contábil**
+###  **Escrituração Contábil**
 - Controle de escrituração por empresa
 - Gestão de códigos de escrituração
 - Controle de ECD (Escrituração Contábil Digital)
@@ -38,14 +38,14 @@ Suporta múltiplos usuários com acesso baseado em funções, rastreamento de pr
 - Controle de confirmação por responsável
 - Gestão de próximas escriturações
 
-### 📚 **Banco de Memórias**
+###  **Banco de Memórias**
 - Base legal contábil organizada por departamento
 - Memórias por empresa e assunto
 - Categorização por departamento (Comercial, Contábil, Fiscal, Trabalhista)
 - Informações resumidas e base legal detalhada
 - Controle de assuntos abordados
 
-### 🔔 **Sistema de Notificações**
+###  **Sistema de Notificações**
 - Notificações personalizadas por tipo e categoria
 - Controle de prioridades (Baixa, Média, Alta, Urgente)
 - Agendamento de notificações
@@ -55,46 +55,46 @@ Suporta múltiplos usuários com acesso baseado em funções, rastreamento de pr
 - Verificação automática de certificados vencidos
 - Templates de notificação configuráveis
 
-### 📋 **Licenciamento**
+###  **Licenciamento**
 - Controle de licenças e vencimentos
 - Gestão de certificados digitais
 - Alertas de vencimento automáticos
 - Controle de alvarás e licenças
 
-### 👥 **Gestão de Usuários**
+###  **Gestão de Usuários**
 - Sistema de autenticação completo
 - Controle de permissões por módulo
 - Gestão de perfis de usuário
 - Auditoria de acessos
 
-### 🔍 **Auditoria**
+### **Auditoria**
 - Rastreamento completo de alterações
 - Log de ações por usuário
 - Histórico de modificações
 - Controle de integridade dos dados
 
-### 💰 **Módulo Financeiro**
+###  **Módulo Financeiro**
 - Gestão financeira integrada
 - Controle de receitas e despesas
 - Análise de fluxo de caixa
 - Relatórios financeiros
 - Controle de fornecedores
 
-### 📈 **Dashboard**
+###  **Dashboard**
 - Visão geral do sistema
 - Indicadores executivos
 - Estatísticas por módulo
 - Gráficos e métricas em tempo real
 
-### 📄 **Relatórios**
+###  **Relatórios**
 - Exportação em PDF, Excel e CSV
 - Relatórios personalizáveis
 - Agendamento de relatórios
 - Compartilhamento de relatórios
 
-## 🚀 **Funcionalidades Avançadas**
+##  **Funcionalidades Avançadas**
 
-### 🔄 **Sistema de Notificações Inteligente**
+###  **Sistema de Notificações Inteligente**
 - **Verificação Automática**: Monitora certificados digitais e vencimentos
 - **Priorização Inteligente**: Classifica notificações por urgência
 - **Agendamento**: Notificações programadas para momentos específicos
@@ -102,20 +102,20 @@ Suporta múltiplos usuários com acesso baseado em funções, rastreamento de pr
 - **Fila de Processamento**: Sistema robusto para envio em massa
 - **Configurações por Usuário**: Preferências individuais de notificação
 
-### 🧠 **Banco de Memórias Contábil**
+###  **Banco de Memórias Contábil**
 - **Base Legal Organizada**: Informações fiscais e contábeis por departamento
 - **Categorização Inteligente**: Comercial, Contábil, Fiscal e Trabalhista
 - **Busca Avançada**: Filtros por empresa, departamento e assunto
 - **Histórico Completo**: Rastreamento de consultas e atualizações
 - **Relacionamento de Dados**: Conexões entre memórias relacionadas
 
-### 📊 **Dashboard Executivo**
+###  **Dashboard Executivo**
 - **Métricas em Tempo Real**: Indicadores atualizados automaticamente
 - **Gráficos Interativos**: Visualizações dinâmicas dos dados
 - **Filtros Personalizáveis**: Análises por período, empresa ou módulo
 - **Exportação de Dados**: Relatórios em múltiplos formatos
 
-### 🔐 **Segurança e Auditoria**
+###  **Segurança e Auditoria**
 - **Log Completo**: Rastreamento de todas as ações do sistema
 - **Controle de Acesso**: Permissões granulares por módulo
 - **Integridade de Dados**: Validações e verificações automáticas
@@ -123,7 +123,7 @@ Suporta múltiplos usuários com acesso baseado em funções, rastreamento de pr
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - **Backend:** Django 5.2.4
 - **Banco:** MySQL 9.3.0
@@ -133,7 +133,7 @@ Suporta múltiplos usuários com acesso baseado em funções, rastreamento de pr
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 easydesk-contabilidade/
@@ -164,56 +164,56 @@ easydesk-contabilidade/
 
 ---
 
-## 🖼️ Screenshots da Plataforma
+##  Screenshots da Plataforma
 
-### 🔐 Tela de Login
+###  Tela de Login
 ![Login Screen](img/Login.png)
 
-### 📝 Tela de Registro
+### Tela de Registro
 ![Registration Screen](img/register.png)
 
-### 📊 Dashboard Principal
+###  Dashboard Principal
 ![Main Dashboard](img/Dashboard.png)
 
-### 🧑‍💼 Gestão de Empresas
+###  Gestão de Empresas
 ![Company Management](img/gestão%20de%20empresas%201.png)
 
-### 🧾 Controle Fiscal
+###  Controle Fiscal
 ![Tax Control](img/Controle%20Fiscal.png)
 
-### 🪪 Licenciamento
+###  Licenciamento
 ![License Management](img/Licenciamento.png)
 
-### 💰 Escrituração Contábil - Parte 1
+###  Escrituração Contábil - Parte 1
 ![Financial Bookkeeping 1](img/Escrituração%201.png)
 
-### 💰 Escrituração Contábil - Parte 2
+###  Escrituração Contábil - Parte 2
 ![Financial Bookkeeping 2](img/Escrituração%202.png)
 
-### 🗄️ Banco de Memórias
+###  Banco de Memórias
 ![Memory Bank](img/Banco%20de%20memorias.png)
 
-### 🔔 Sistema de Notificações
+###  Sistema de Notificações
 ![Notification System](img/notificacoes.png)
 
-### 📋 Gestão de Tarefas
+###  Gestão de Tarefas
 ![Task Management](img/tarefas.png)
 
 ---
 
-### 📊 **Sistema de Monitoramento**
+### **Sistema de Monitoramento**
 - **Health Checks**: Verificação de status do sistema
 - **Logs Detalhados**: Rastreamento de operações e erros
 - **Métricas de Performance**: Monitoramento de recursos
 - **Alertas Automáticos**: Notificações de problemas críticos
 
-### 🛠️ **Ferramentas de Manutenção**
+###  **Ferramentas de Manutenção**
 - **Migrações Automáticas**: Atualização do banco de dados
 - **Backup Automático**: Proteção de dados
 - **Limpeza de Cache**: Otimização de performance
 - **Verificação de Integridade**: Validação de dados
 
-### 🔄 **Processos Automatizados**
+###  **Processos Automatizados**
 - **Verificação de Certificados**: Monitoramento de vencimentos
 - **Geração de Relatórios**: Criação automática de documentos
 - **Notificações Programadas**: Alertas em horários específicos
@@ -223,11 +223,11 @@ easydesk-contabilidade/
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto é privado e proprietário.
 
-## 👨‍💻 Autor
+## Autor
 Lucas de Souza Antunes
 
 
@@ -235,4 +235,4 @@ Desenvolvido para gestão contábil empresarial.
 
 ---
 
-**🚀 Sistema pronto para produção!** 
+** Sistema pronto para produção!** 
