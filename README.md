@@ -2,7 +2,6 @@
 
 Sistema completo de gestão contábil desenvolvido em Django para controle empresarial, fiscal e de licenciamento.
 
-🔗 *Demo Online:* [https://easydesk.up.railway.app/accounts/login/]([https://web-production-52f4.up.railway.app](https://easydesk.up.railway.app/accounts/login/))
 
 ---
 
