@@ -201,89 +201,6 @@ easydesk-contabilidade/
 
 ---
 
-## 🏃‍♂️ Executar Localmente
-
-### Pré-requisitos
-- Python 3.11+
-- MySQL 8.0+
-- Git
-
-### Instalação
-
-```bash
-# 1. Clonar repositório
-git clone https://github.com/SEU_USUARIO/easydesk-contabilidade.git
-cd easydesk-contabilidade
-
-# 2. Criar ambiente virtual
-python -m venv venv
-venv\Scripts\activate  # Windows
-
-# 3. Instalar dependências
-pip install -r requirements.txt
-
-# 4. Configurar banco MySQL
-# Criar banco: CREATE DATABASE easydesk_local;
-
-# 5. Configurar variáveis de ambiente
-# Copiar env.example para .env e configurar
-
-# 6. Executar migrações
-python manage.py migrate
-
-# 7. Criar superusuário
-python manage.py createsuperuser
-
-# 8. Iniciar servidor
-python manage.py runserver
-```
-
-### Ou usar script automático:
-```bash
-.\start_easydesk.bat
-```
-
----
-
-## 🌐 Deploy
-
-O sistema está configurado para deploy automático em:
-
-- **Railway** (recomendado) - 500h grátis
-- **Render** - Tier gratuito
-- **PythonAnywhere** - Python especializado
-
-Consulte `DEPLOY_COMPLETO.md` para instruções detalhadas.
-
----
-
-## 🎯 Acesso ao Sistema
-
-### 🌐 **URLs Principais**
-- **Sistema:** http://localhost:8000
-- **Admin:** http://localhost:8000/admin
-- **Dashboard:** http://localhost:8000/dashboard/
-- **Empresas:** http://localhost:8000/empresas/
-- **Fiscal:** http://localhost:8000/fiscal/
-- **Escrituração:** http://localhost:8000/escrituracao/
-- **Licenciamento:** http://localhost:8000/licenciamento/
-- **Notificações:** http://localhost:8000/notificacoes/
-- **Banco de Memórias:** http://localhost:8000/banco-memoria/
-- **Auditoria:** http://localhost:8000/auditoria/
-- **Financeiro:** http://localhost:8000/financeiro/
-- **Configurações:** http://localhost:8000/configuracoes/
-
-### 🔧 **APIs Disponíveis**
-- **Notificações API:** `/notificacoes/api/`
-- **Memórias API:** `/banco-memoria/api/`
-- **Tarefas API:** `/tarefas/api/`
-- **Dashboard API:** `/dashboard/api/`
-- **Health Check:** `/health/`
-
----
-
-## 🔧 **Monitoramento e Manutenção**
-
 ### 📊 **Sistema de Monitoramento**
 - **Health Checks**: Verificação de status do sistema
 - **Logs Detalhados**: Rastreamento de operações e erros
@@ -304,29 +221,6 @@ Consulte `DEPLOY_COMPLETO.md` para instruções detalhadas.
 
 ---
 
-## 🔧 Desenvolvimento
-
-### Fazer alterações:
-```bash
-# 1. Editar código
-# 2. Testar localmente
-python manage.py runserver
-
-# 3. Commit e push
-git add .
-git commit -m "Descrição da alteração"
-git push
-```
-
-### Mudanças no banco:
-```bash
-python manage.py makemigrations
-python manage.py migrate
-git add .
-git commit -m "Nova migração: [descrição]"
-git push
-```
-
 ---
 
 ## 📄 Licença
@@ -334,11 +228,11 @@ git push
 Este projeto é privado e proprietário.
 
 ## 👨‍💻 Autor
+Lucas de Souza Antunes
+
 
 Desenvolvido para gestão contábil empresarial.
 
 ---
 
 **🚀 Sistema pronto para produção!** 
-
-# Deploy test: commit forçado em 2024-08-08 para forçar rebuild Railway
